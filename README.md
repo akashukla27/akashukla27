@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Food Delivery Application**
+- 🔭 I’m currently working on **Saloon Application**
 
 - 📫 How to reach me **akashdeepshukla840@gmail.com**
 
