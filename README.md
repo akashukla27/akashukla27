@@ -17,14 +17,9 @@
 </p>
 <div align="center">
 
-Made with 💜 by [Anmol](https://twitter.com/Anmol_Codes)
+Made with 💜 by [Anmol](https://linkedin.com/in/akashdeep-shukla29/)
 
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Hi 👋, I'm Akashdeep, a Java Developer &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-
-<a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" alt="made with love  markdown badge" ></a>  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-swag.svg" width="130" alt="made with swag markdown badge"></a> 
-<a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/open-source.svg" width="130" height="30" alt="open source  markdown badge"></a>  
-<br><a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" width="230" height="30" alt="made with markdown badge"></a> 
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
@@ -32,30 +27,6 @@ Made with 💜 by [Anmol](https://twitter.com/Anmol_Codes)
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
  
-
----
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Menu ---------------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-# [Menu](#menu)
-- [Welcome](#welcome)
-- [Moving Logos](#moving-logos-)
-- [Animated Social Icons](#animated-social-media-icons-)
-- [Animated Emojis](#animated-emojis-)
-- [Animated Hello Banner](#animated-hello-)
-- [Build your own Octocat](#build-your-own-octocat-)
-- [Nice to Meet You Raw](#hello-nice-to-meet-you--)
-- [Work Culture (HD Visuals)](#work-culture-hd-visuals-)
-- [Extra Value Added](#extra-value-added-)
-- [Cute Working Stickers](#cute-working-stickers-)
-- [Awesome Banners](#awesome-banners-)
-- [Cool Avatars for GitHub Profile](#--cool-avatars-for-github-profile---)
-  
-<br>
-
----
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Moving Logos -------------------------------------------------------------------------------------------------------------------------------------- -->
