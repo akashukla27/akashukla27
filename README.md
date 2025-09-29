@@ -1,9 +1,11 @@
+Made with 💜 by [AKASH](https://linkedin.com/in/akashdeep-shukla29/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashukla27&label=Profile%20views&color=0e75b6&style=flat" alt="akashukla27" /> </p>
+<p align="right"><img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="300">
+<br><br>
 </p>
 <div align="center">
 
-Made with 💜 by [AKASH](https://linkedin.com/in/akashdeep-shukla29/)
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Hi 👋, I'm Akashdeep, a Java Developer &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Hi 👋, Hope you are doing well!&nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
@@ -37,6 +39,9 @@ Made with 💜 by [AKASH](https://linkedin.com/in/akashdeep-shukla29/)
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## Connect with me: 
+- 🔭 I’m currently working on **Salon Booking Application**
+- 📫 How to reach me **akashdeepshukla840@gmail.com**
+- 
 <a href="https://linkedin.com/in/akashdeep-shukla29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashdeep-shukla29/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/akashdeep_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akashdeep_01" height="30" width="40" /></a>
 <br><br>
@@ -73,16 +78,8 @@ Made with 💜 by [AKASH](https://linkedin.com/in/akashdeep-shukla29/)
 <br><br>     
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Work Culture -------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- -- 💜 Thanks For Visiting --------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-- 🔭 I’m currently working on **Salon Booking Application**
 
-- 📫 How to reach me **akashdeepshukla840@gmail.com**
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting [🔝](#--gifs-for-readme--)
 
-- 📄 Know about my experiences [askdk](askdk)
-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akashdeep-shukla29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashdeep-shukla29/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akashdeep_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akashdeep_01" height="30" width="40" /></a>
-</p>
-<div align="center">
