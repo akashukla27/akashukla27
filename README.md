@@ -1,4 +1,3 @@
-Made with 💜 by [AKASH](https://linkedin.com/in/akashdeep-shukla29/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashukla27&label=Profile%20views&color=0e75b6&style=flat" alt="akashukla27" /> </p>
 <p align="right"><img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="300">
 <br><br>
@@ -82,4 +81,4 @@ Made with 💜 by [AKASH](https://linkedin.com/in/akashdeep-shukla29/)
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting [🔝](#--gifs-for-readme--)
-
+Made with 💜 by [AKASH](https://linkedin.com/in/akashdeep-shukla29/)
