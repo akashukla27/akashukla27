@@ -1,6 +1,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashukla27&label=Profile%20views&color=0e75b6&style=flat" alt="akashukla27" /> </p>
-
-<br><br>
 </p>
 <div align="center">
 
