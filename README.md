@@ -1,7 +1,7 @@
 # Hope you are doing well !!
 
 <h1 align="center">Hi 👋, I'm Akashdeep</h1>
-<h3 align="center">a Indian Web Developer 👋🏼.</h3>
+<h3 align="center">a Indian Java Developer 👋🏼.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashukla27&label=Profile%20views&color=0e75b6&style=flat" alt="akashukla27" /> </p>
 
