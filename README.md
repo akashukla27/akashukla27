@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm Akashdeep</h1>
 <h3 align="center">a Indian Java Developer 👋🏼.</h3>
 
+<img align="right" alt="coding" width="400" src="<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/a75a9648-b4ea-4b70-b957-559e04a2faa7" />
+"> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashukla27&label=Profile%20views&color=0e75b6&style=flat" alt="akashukla27" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashukla27" alt="akashukla27" /></a> </p>
