@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Akashdeep</h1>
 <h3 align="center">a Indian Java Developer 👋🏼.</h3>
 
-<img align="right" alt="coding" width="400" src="<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/a75a9648-b4ea-4b70-b957-559e04a2faa7" />
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxjeGNxbTZ1ZWI0ZHJodTE1cWZkZ2F0dTV3MWhjMjFoNHE1OTIzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EddY9gk1YkWAnImfKm/giphy.gif" />
 "> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashukla27&label=Profile%20views&color=0e75b6&style=flat" alt="akashukla27" /> </p>
